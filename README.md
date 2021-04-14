@@ -1,2 +1,3 @@
-# tsreact
+# 
+typescript-react
 React with Typescript
